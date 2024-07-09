@@ -1,14 +1,11 @@
 @import url("./__reset.css");
 :root {
-  color-scheme: light dark;
   --grey-200: #d0d5dd;
   --grey-400: #bdc7d7;
   --grey-600: #525252;
   --grey-800: #1f1f1f;
-
   --blue-600: #667085;
   --blue-800: #0558ff;
-
   --black: #14171a;
   --white: #ffffff;
 }
@@ -20,8 +17,13 @@ html {
   font-size: 16px;
 }
 body {
-  background-color: light-dark(var(--white), var(--black));
+  background-color: var(--black);
   margin: 64px;
+}
+@media only screen and (max-width: 768px) {
+  body {
+    margin: 0px;
+  }
 }
 
 h1 {

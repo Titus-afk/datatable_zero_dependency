@@ -3,7 +3,7 @@ import DataTable from "../components/Datatable/DataTable";
 import { sampleColumns, sampleData } from "../constants";
 
 const AppLayout = () => {
-  const [theme, setTheme] = useState<"light" | "dark">("light");
+  const [theme, setTheme] = useState<"light" | "dark">("dark");
   const handleTheme = (e: React.MouseEvent<HTMLAnchorElement>) => {
     e.preventDefault();
     setTheme((prevTheme) => (prevTheme === "light" ? "dark" : "light"));
