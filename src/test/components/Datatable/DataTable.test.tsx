@@ -1,5 +1,4 @@
 import { fireEvent, render, screen, within } from "@testing-library/react";
-import "@testing-library/jest-dom";
 import { expect, it } from "vitest";
 
 import DataTable from "../../../components/Datatable/DataTable";

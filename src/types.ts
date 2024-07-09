@@ -41,7 +41,6 @@ export type column = {
   colName: colName;
   label: string;
   visibility: visibility;
-  width: number;
 };
 export type handleColumns = (colName: colName, property: keyof column, value: boolean | string) => void;
 

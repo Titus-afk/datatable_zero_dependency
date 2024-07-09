@@ -148,24 +148,20 @@ export const sampleColumns: column[] = [
     colName: "id",
     label: "ID",
     visibility: true,
-    width: 10,
   },
   {
     colName: "name",
     label: "Name",
     visibility: true,
-    width: 30,
   },
   {
     colName: "location",
     label: "Location",
     visibility: true,
-    width: 20,
   },
   {
     colName: "phoneNumber",
     label: "Phone Number",
     visibility: true,
-    width: 20,
   },
 ];
