@@ -2,7 +2,10 @@
 
 This is a zero-dependency data table component is a powerful and flexible tool that can enhance any project by providing essential data management capabilities.
 
-I've added several customisation features for this datatable which can be seen on this live link.
+![image](https://github.com/Titus-afk/datatable_zero_dependency/assets/53218631/26aba5aa-52e8-4da0-bf1d-bf38ae657c42)
+
+
+I've added several customisation features for this datatable which can be seen on this live [link](https://datatable-custom.netlify.app/).
 
 ## Features
 
