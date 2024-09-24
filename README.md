@@ -1,5 +1,3 @@
-# Custom Datatable - Task 2
-
 This is a zero-dependency data table component is a powerful and flexible tool that can enhance any project by providing essential data management capabilities.
 
 ![image](https://github.com/Titus-afk/datatable_zero_dependency/assets/53218631/26aba5aa-52e8-4da0-bf1d-bf38ae657c42)
